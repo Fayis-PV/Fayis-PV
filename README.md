@@ -1,0 +1,5 @@
+- 👋 Hi, I am Muhammed Fayis P V.
+- 🌱 I am currently learning web development implementing Python and Django languages.
+- 👀 I am interested to learn Artificial Intelligence.
+- 🎓 I am learning at Darul Huda Islamic University, Chemmad.
+- 📫 fayispvchelari@gmail.com
